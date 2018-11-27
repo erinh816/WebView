@@ -16,7 +16,7 @@ html{
       height: 500px;
       position: relative;
       /* background: hsl(0, 10%, 89%); */
-      background: transparent;
+      background: #F2BB05;
   }
   
   div#viewport {
